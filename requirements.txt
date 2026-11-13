@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+chromadb
+sentence-transformers
+rank_bm25
